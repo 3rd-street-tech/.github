@@ -2,13 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="306.4321"
+   height="162.82982"
+   viewBox="0 0 81.076826 43.082056"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
    sodipodi:docname="logo.svg"
+   inkscape:export-filename="logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -22,10 +25,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
-     inkscape:zoom="0.125"
-     inkscape:cx="396"
-     inkscape:cy="556"
+     inkscape:document-units="px"
+     inkscape:zoom="1"
+     inkscape:cx="-133.5"
+     inkscape:cy="586.5"
      inkscape:window-width="3440"
      inkscape:window-height="1440"
      inkscape:window-x="1800"
@@ -37,19 +40,38 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-75.056374,-93.714183)">
+    <path
+       style="font-weight:bold;font-size:50.8px;font-family:'Space Grotesk';-inkscape-font-specification:'Space Grotesk Bold';letter-spacing:-2.45004px;stroke-width:0.264583"
+       d="m 139.0644,129.98538 v -29.464 h -10.3632 v -6.095997 h 27.432 v 6.095997 H 145.77 v 29.464 z"
+       id="path3"
+       inkscape:label="T path"
+       sodipodi:insensitive="true" />
+    <path
+       style="font-weight:bold;font-size:50.8px;font-family:'Space Grotesk';-inkscape-font-specification:'Space Grotesk Bold';letter-spacing:-2.45004px;stroke-width:0.264583"
+       d="m 116.40439,130.69658 q -4.1148,0 -7.2644,-1.4732 -3.1496,-1.4732 -4.9276,-4.2164 -1.778,-2.7432 -1.778,-6.604 v -1.4224 h 6.604 v 1.4224 q 0,3.2004 1.9812,4.826 1.9812,1.5748 5.3848,1.5748 3.4544,0 5.1308,-1.3716 1.7272,-1.3716 1.7272,-3.5052 0,-1.4732 -0.8636,-2.3876 -0.8128,-0.9144 -2.4384,-1.4732 -1.5748,-0.6096 -3.8608,-1.1176 l -1.1684,-0.254 q -3.6576,-0.8128 -6.2992,-2.032 -2.5908,-1.27 -4.0132,-3.302 -1.3716,-2.032 -1.3716,-5.2832 0,-3.2512 1.524,-5.537197 1.5748,-2.3368 4.3688,-3.556 2.8448,-1.27 6.6548,-1.27 3.81,0 6.7564,1.3208 2.9972,1.27 4.6736,3.8608 1.7272,2.539997 1.7272,6.400797 v 1.524 h -6.604 v -1.524 q 0,-2.032 -0.8128,-3.2512 -0.762,-1.27 -2.2352,-1.8288 -1.4732,-0.609597 -3.5052,-0.609597 -3.048,0 -4.5212,1.168397 -1.4224,1.1176 -1.4224,3.0988 0,1.3208 0.6604,2.2352 0.7112,0.9144 2.0828,1.524 1.3716,0.6096 3.5052,1.0668 l 1.1684,0.254 q 3.81,0.8128 6.604,2.0828 2.8448,1.27 4.4196,3.3528 1.5748,2.0828 1.5748,5.334 0,3.2512 -1.6764,5.7404 -1.6256,2.4384 -4.6736,3.8608 -2.9972,1.3716 -7.112,1.3716 z"
+       id="path2"
+       inkscape:label="S path"
+       sodipodi:insensitive="true" />
+    <path
+       style="font-weight:bold;font-size:50.8px;font-family:'Space Grotesk';-inkscape-font-specification:'Space Grotesk Bold';letter-spacing:-2.45004px;stroke-width:0.264583"
+       d="m 88.772376,136.79624 q -4.013199,0 -7.112001,-1.4224 -3.098802,-1.4224 -4.876803,-4.064 -1.727198,-2.6924 -1.727198,-6.35 v -0.9144 h 6.502401 v 0.7112 q 0,2.8448 1.981201,4.572 1.981198,1.6764 5.2324,1.6764 3.301999,0 5.08,-1.5748 1.828801,-1.5748 1.828801,-3.9624 v -0.508 q 0,-1.6256 -0.812797,-2.6416 -0.812804,-1.016 -2.184408,-1.4732 -1.371591,-0.508 -3.098792,-0.508 h -7.112008 v -7.112 l 11.480804,-6.096 v -0.8128 H 75.970778 V 100.525 h 25.196802 v 8.63604 l -10.718803,5.6896 v 0.8128 h 1.879598 q 2.387605,0 4.622803,0.9652 2.285998,0.9652 3.759202,2.9972 1.4732,1.9812 1.4732,5.1816 v 0.6096 q 0,3.4544 -1.6764,6.0452 -1.676401,2.54 -4.724406,3.9624 -2.997202,1.3716 -7.010398,1.3716 z"
+       id="text1"
+       inkscape:label="3 path" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.8px;font-family:'Space Grotesk';-inkscape-font-specification:'Space Grotesk Bold';letter-spacing:-2.45004px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.8px;font-family:'Space Grotesk';-inkscape-font-specification:'Space Grotesk Bold';letter-spacing:-2.45004px;writing-mode:lr-tb;direction:ltr;display:none;fill:#000000;stroke-width:0.264583"
        x="72.270844"
        y="129.98538"
-       id="text1"
-       inkscape:label="3ST"><tspan
+       id="text2"
+       inkscape:label="Text monogram"
+       sodipodi:insensitive="true"><tspan
          sodipodi:role="line"
-         id="tspan1"
+         id="tspan2"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.8px;font-family:'Space Grotesk';-inkscape-font-specification:'Space Grotesk Bold';letter-spacing:-2.45004px;stroke-width:0.264583"
-         x="72.270844"
-         y="129.98538"
+         x="0"
+         y="0"
          dx="0 0 -1.5599999">3ST</tspan></text>
   </g>
 </svg>
